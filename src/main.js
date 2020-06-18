@@ -3,6 +3,8 @@
 import Vue from 'vue';
 import App from './App';
 
+var a = "aasd";
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
